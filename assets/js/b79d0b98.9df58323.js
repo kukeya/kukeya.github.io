@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8791],{3151:function(e){e.exports=JSON.parse('{"name":"\u5f00\u59cb\u4e0a\u624b","permalink":"/docs/tags/\u5f00\u59cb\u4e0a\u624b","docs":[{"id":"my-home-page","title":"hello-my-doc","description":"hello home doc","permalink":"/docs/"}],"allTagsPath":"/docs/tags"}')}}]);

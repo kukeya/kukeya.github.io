@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3562],{696:function(e){e.exports=JSON.parse('{"allTagsPath":"/kukeya.github.io/blog/tags","name":"hola","count":1,"permalink":"/kukeya.github.io/blog/tags/hola"}')}}]);
