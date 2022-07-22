@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4121],{8070:function(e){e.exports=JSON.parse('[{"name":"\u6f14\u793a","permalink":"/kukeya.github.io/docs/tags/\u6f14\u793a","count":1},{"name":"\u5f00\u59cb\u4e0a\u624b","permalink":"/kukeya.github.io/docs/tags/\u5f00\u59cb\u4e0a\u624b","count":1}]')}}]);
