@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://kukeya.com/',
+  baseUrl: '/kukeya.github.io/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'kukeya', // Usually your GitHub org/user name.
+  projectName: 'kukeya.github.io', // Usually your repo name.
 
   presets: [
     [
@@ -56,7 +56,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
